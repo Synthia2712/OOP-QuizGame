@@ -56,6 +56,7 @@ quizgame/
       ├── mvnw.cmd
       └── mvnw
 
+---
 
 ## 👨‍💻 Author
 
