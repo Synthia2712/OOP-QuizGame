@@ -22,8 +22,7 @@ It allows users to take a fun, interactive quiz with **multiple difficulty level
 * **Java (JDK 17+)**
 * **Spring Boot**
 * **Maven**
-* **Thymeleaf (for frontend rendering)**
-* **HTML/CSS (basic UI)**
+* **Antigravity (for frontend rendering)**
 
 ---
 
